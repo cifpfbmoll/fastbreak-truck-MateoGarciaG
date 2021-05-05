@@ -1,9 +1,6 @@
 package org.pingpong.fastbreaktruck.domain.builders;
 
-import org.pingpong.fastbreaktruck.domain.items.Eyeholes;
-import org.pingpong.fastbreaktruck.domain.items.FleebJuice;
-import org.pingpong.fastbreaktruck.domain.items.Smiggles;
-import org.pingpong.fastbreaktruck.domain.items.TurbulentJuice;
+import org.pingpong.fastbreaktruck.domain.items.*;
 
 public class BreakFastBuilder {
 
@@ -21,5 +18,9 @@ public class BreakFastBuilder {
         smigglesBf.addItem(new FleebJuice());
 
         return smigglesBf;
+    }
+
+    public static void addToy(Breakfast breakfast) {
+        breakfast.addItem(new Plumbus());
     }
 }
