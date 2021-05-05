@@ -92,4 +92,17 @@ public class BreakFastBuilderTest {
         assertThat(smigglesBf.getTotal()).isEqualTo(65.0f);
     }
 
+    @Test
+    public void breakFastBuilderAddToyTest() {
+
+        Breakfast eyesHolesBf = BreakFastBuilder.prepareEyeHoles();
+
+        BreakFastBuilder.addToy(eyesHolesBf);
+
+        assertThat(eyesHolesBf.getItems().get(2).name()).isEqualTo("Plumbus");
+        assertThat(eyesHolesBf.getItems().get(2).packing().pack()).isEqualTo("Box");
+        assertThat(eyesHolesBf.getItems().get(2).price()).isEqualTo(10.0f);
+
+    }
+
 }
