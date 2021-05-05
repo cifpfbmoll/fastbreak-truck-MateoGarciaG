@@ -14,6 +14,6 @@ public abstract class Drink implements Item {
 
     @Override
     public String toString() {
-        return "Drink{}";
+        return this.formatterToString();
     }
 }
