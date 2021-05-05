@@ -1,5 +1,5 @@
 # FastBreakTruck
-The FastBreakTruck Project is about to build an Application that let prepare two types of breakfast: Eyeholes + Turbulent Juice and Smiggles + Fleeb Juice, with their costs and one of them with a toy. This Project is from Kata of "Programación" subject
+The FastBreakTruck Project is about to build an Application that let prepare two types of breakfast: Eyeholes + Turbulent Juice and Smiggles + Fleeb Juice, with their costs and one of them with a toy. This Project is from Kata of "Programación" subject. This Project use Builder Pattern
 
 
 [![status application](https://img.shields.io/badge/status-stable-brightgreen)](URL_Proyecto)
@@ -30,7 +30,7 @@ The FastBreakTruck Project is about to build an Application that let prepare two
 **[⬆ back to top](#tabla-de-contenidos)**
 
 ## Diagrama UML
-
+UML Diagram by @dfleta User GitHub
 ![Diagrama UML](./doc/UML_Diagram/uml_diagram_fastbreaktruck.gif)
 
 
@@ -53,7 +53,12 @@ The FastBreakTruck Project is about to build an Application that let prepare two
 ## Reflexiones
 
 ### Que has mejorado con este proyecto?
-
+With this project let me to know a different
+way of create object where through a Builder we can
+define different types of object and create COmplex Objects
+where we can extend new types of objects without affect
+the other types of object and the implementation that
+these objects have.
 
 **[⬆ back to top](#tabla-de-contenidos)**
 
