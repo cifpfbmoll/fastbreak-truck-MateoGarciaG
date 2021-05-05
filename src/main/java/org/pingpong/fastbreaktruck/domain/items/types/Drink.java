@@ -1,4 +1,4 @@
-package org.pingpong.fastbreaktruck.domain.items;
+package org.pingpong.fastbreaktruck.domain.items.types;
 
 import org.pingpong.fastbreaktruck.domain.packing.Bottle;
 import org.pingpong.fastbreaktruck.domain.packing.Packing;
