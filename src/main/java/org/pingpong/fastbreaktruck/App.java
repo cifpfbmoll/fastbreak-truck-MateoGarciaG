@@ -35,10 +35,10 @@ public class App
          * Plumbus
          */
 
-//        eyeDes = FastBreakTruck.prepararEyeHoles();
-//        FastBreakTruck.incluirJuguete(eyeDes);
-//        System.out.println("\nEyeholes con plumbus!");
-//        eyeDes.mostrarItems();
-//        System.out.print("Precio pedido: " + eyeDes.getCoste());
+        eyeDes = BreakFastBuilder.prepareEyeHoles();
+        BreakFastBuilder.addToy(eyeDes);
+        System.out.println("\nEyeholes con plumbus!");
+        eyeDes.showItems();
+        System.out.print("Precio pedido: " + eyeDes.getTotal());
     }
 }
