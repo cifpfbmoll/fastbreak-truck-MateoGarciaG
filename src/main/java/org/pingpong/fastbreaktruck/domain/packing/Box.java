@@ -1,4 +1,4 @@
-package org.pingpong.fastbreaktruck.packing;
+package org.pingpong.fastbreaktruck.domain.packing;
 
 public class Box implements Packing {
 
