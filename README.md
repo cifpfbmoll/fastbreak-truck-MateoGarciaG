@@ -1,6 +1,13 @@
 # FastBreakTruck
 The FastBreakTruck Project is about to build an Application that let prepare two types of breakfast: Eyeholes + Turbulent Juice and Smiggles + Fleeb Juice, with their costs and one of them with a toy. This Project is from Kata of "Programación" subject. This Project use Builder Pattern
+
 Project Finished.
+
+## IMPORTANT TO READ!!!:
+All branches structure with their commits are in my Repository of my Personal Account:
+https://github.com/MateoGarciaG/FastBreakTruck
+
+This repository is to upload the task of this projet.
 
 [![status application](https://img.shields.io/badge/status-stable-brightgreen)](URL_Proyecto)
 
