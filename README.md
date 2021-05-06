@@ -1,5 +1,7 @@
 # FastBreakTruck
-The FastBreakTruck Project is about to build an Application that let prepare two types of breakfast: Eyeholes + Turbulent Juice and Smiggles + Fleeb Juice, with their costs and one of them with a toy. This Project is from Kata of "Programación" subject. This Project use Builder Pattern
+The FastBreakTruck Project is about to build an Application that let prepare two types of breakfast: Eyeholes + Turbulent Juice and Smiggles + Fleeb Juice, with their costs and one of them with a toy. This Project is from Kata of "Programación" subject. 
+
+## This Project use Builder Pattern
 
 Project Finished.
 
