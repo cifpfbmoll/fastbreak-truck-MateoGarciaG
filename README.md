@@ -32,8 +32,8 @@ This repository is to upload the task of this projet.
 ---
 
 ## Salida de la Aplicación
-
-![Salida de la Aplicación](./doc/salida_consola.gif)
+Main App Code for this Kata Project provided by @dfleta Github User
+![Salida de la Aplicación](./doc/salida_consola.PNG)
 
 
 **[⬆ back to top](#tabla-de-contenidos)**
